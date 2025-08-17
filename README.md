@@ -1,4 +1,4 @@
-# 📄 RAG Agent for Statement of Work (SOW) using CrewAI
+# RAG AGENT USING CREWAI
 
 ## 🔍 What is this project?
 This project is a **RAG Agent (Retrieval-Augmented Generation Agent)** built with [CrewAI](https://docs.crewai.com). It demonstrates how a **RAG agent** can answer queries asked by grounding its responses in a knowledge base (PDF), here in this case "RAG_MAS.pdf" -> "RAG-Multi Agent System"
